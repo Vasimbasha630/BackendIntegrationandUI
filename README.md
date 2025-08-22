@@ -39,3 +39,12 @@ The application is organized into two main parts:
   - Manages global or theme-related state using Context API (`React.createContext()` and `useContext`).
 
 Data flows from the backend server→JSON over HTTP→handled inside React components (via hooks)→shared across components using Context API.
+# Login
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/041ed49b-161e-4d9a-b431-313689325adc" />
+
+# Register
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3f54c996-026c-4fee-a3b4-1aa05e9de67b" />
+
+# Dashboard
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dc213711-f92e-488b-b6ad-2fd68480acb1" />
+
